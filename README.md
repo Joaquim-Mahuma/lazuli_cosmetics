@@ -26,7 +26,7 @@ Este repositório contém o código front-end para o website da loja de cosméti
 </a>
 
 
-## Recursos a incluir
+## Recursos a serem incluídos
 
 - Responsividade (para tablets e telemóveis)
 - Funcionalidades em botões e links
