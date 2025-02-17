@@ -19,7 +19,7 @@ Este repositório contém o código front-end para o website da loja de cosméti
 
 ## Demonstração
 
-[Lazuli Cosmetics](https://lazulicosmetics.netlify.app) 
+[Clique aqui para testar o projecto](https://lazulicosmetics.netlify.app) 
 
 ## Recursos a incluir
 
