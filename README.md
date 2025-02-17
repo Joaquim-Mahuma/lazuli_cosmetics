@@ -14,12 +14,17 @@ Este repositório contém o código front-end para o website da loja de cosméti
 
 ## Tecnologias Utilizadas
 
--**HTML5**
--**CSS3**
+- **HTML5**
+- **CSS3**
 
 ## Demonstração
 
 [Clique aqui para testar o projecto](https://lazulicosmetics.netlify.app) 
+
+<a href="https://lazulicosmetics.netlify.app" target="_blank">
+  <img src="images/demo-lazuli-cosmetics.png" alt="visualização do site" width="100%">
+</a>
+
 
 ## Recursos a incluir
 
