@@ -35,6 +35,7 @@ Para mais informações, entre em contato comigo:
 - **Email:** joaquimmahuma14@gmail.com (sem span, por favor)
 - **LinkedIn:** [Joaquim Mahuma](https://www.linkedin.com/in/joaquim-mahuma-7386b2303/)
 
+
 ## Um pouco sobre mim
 
 Olá! Sou Joaquim Mahuma, um desenvolvedor web front-end apaixonado por criar experiências digitais incríveis. Atualmente, trabalho com tecnologias como HTML5, CSS3 e JavaScript para construir interfaces de usuário responsivas e intuitivas.
